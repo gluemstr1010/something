@@ -1,0 +1,4 @@
+config/local.neon
+
+composer.phar
+/vendor/
